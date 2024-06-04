@@ -3,7 +3,7 @@ const Header = () => {
         <>
             <div className="header flex items-center justify-between mt-6 bg-[#FAFAFA] rounded-[70px] py-[13px] px-6">
                 <div className="logo">
-                    <img src="/src/assets/Logo (2).png" alt="SORRY" />
+                    <img src="src/assets/Logo (2).png" alt="SORRY" />
                 </div>
                 <div className="navbar bg-[#FEFEFF] rounded-[40px] py-5 px-9 flex gap-[35px]">
                     <nav>
